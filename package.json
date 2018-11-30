@@ -35,6 +35,6 @@
     "tap-xunit": "^2.3.0"
   },
   "dependencies": {
-    "jsxbin-webpack-plugin": "0.0.2"
+    "jsxbin-webpack-plugin": "^0.0.4"
   }
 }
